@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nunoarruda/capacitor-blinkup/issues"
   },
-  "homepage": "https://github.com/nunoarruda/capacitor-blinkup#readme"
+  "homepage": "https://github.com/nunoarruda/capacitor-blinkup#readme",
+  "dependencies": {
+    "@capacitor/core": "^3.0.1"
+  }
 }
