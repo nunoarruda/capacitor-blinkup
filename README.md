@@ -6,7 +6,8 @@
 1. Run `npx cap sync`
 2. Run `npx cap open ios`
 3. Build the Xcode project (▶️)
-4. Notice that the build will fail because `'BlinkUp/BlinkUp.h' file not found`
+4. Notice that the build will fail because `'BlinkUp/BlinkUp.h' file not found`:
+<img width="1552" alt="Screen Shot 2021-06-18 at 14 19 15" src="https://user-images.githubusercontent.com/1189149/122579762-c536f980-d044-11eb-842c-b85757e9cc71.png">
 
 You might need to sign the Xcode project and/or choose another unique appId instead of `com.capacitor.blinkup`.
 
