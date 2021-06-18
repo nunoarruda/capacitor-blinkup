@@ -1,0 +1,19 @@
+{
+  "name": "capacitor-blinkup",
+  "version": "1.0.0",
+  "description": "capacitor-blinkup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nunoarruda/capacitor-blinkup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nunoarruda/capacitor-blinkup/issues"
+  },
+  "homepage": "https://github.com/nunoarruda/capacitor-blinkup#readme"
+}
