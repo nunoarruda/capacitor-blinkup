@@ -18,3 +18,4 @@ You might need to sign the Xcode project and/or choose another unique appId inst
 - I did check the `Troubleshooting` guide at https://github.com/SensorShare/cordova-plugin-blinkup#troubleshooting
 - I've tried many possible solutions I've found online (Stack Overflow, etc) without any success
 - I did not test on Android
+- For your curiosity, there is a Ionic Native wrapper for this plugin: https://ionicframework.com/docs/native/blinkup
