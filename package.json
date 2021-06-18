@@ -18,5 +18,8 @@
   "homepage": "https://github.com/nunoarruda/capacitor-blinkup#readme",
   "dependencies": {
     "@capacitor/core": "^3.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^3.0.1"
   }
 }
