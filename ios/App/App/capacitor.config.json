@@ -1,5 +1,5 @@
 {
-	"appId": "com.example.app",
+	"appId": "com.capacitor.blinkup",
 	"appName": "capacitor-blinkup",
 	"webDir": "www",
 	"bundledWebRuntime": false
