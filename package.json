@@ -18,7 +18,8 @@
   "homepage": "https://github.com/nunoarruda/capacitor-blinkup#readme",
   "dependencies": {
     "@capacitor/core": "^3.0.1",
-    "@capacitor/ios": "^3.0.1"
+    "@capacitor/ios": "^3.0.1",
+    "cordova-plugin-blinkup": "^1.2.2"
   },
   "devDependencies": {
     "@capacitor/cli": "^3.0.1"
